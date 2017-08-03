@@ -214,6 +214,7 @@ android {
 
     lintOptions {
         disable 'MissingTranslation', 'ExtraTranslation'
+        abortOnError false
     }
 
     if (project.hasProperty("secure.properties")
