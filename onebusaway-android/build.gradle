@@ -56,7 +56,7 @@ android {
 
     defaultConfig {
         minSdkVersion 14
-        targetSdkVersion 21
+        targetSdkVersion 23
         versionCode 89
         versionName "2.3.4"
 
